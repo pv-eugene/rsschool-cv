@@ -1,4 +1,4 @@
 # files to ignore
 /.idea
-.DS_
-
+*.DS_Store
+._*
