@@ -1,2 +1,4 @@
 # files to ignore
-**/.idea
+*/rsschool-cv/.idea
+*DS_Store
+
